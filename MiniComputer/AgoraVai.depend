@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1476929788 source:c:\users\daniel diniz\documents\code blocks projects\agoravai\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mem.h"
+	"cpu.h"
+
+1476837095 c:\users\daniel diniz\documents\code blocks projects\agoravai\mem.h
+	<stdio.h>
+	<stdlib.h>
+
+1476928320 source:c:\users\daniel diniz\documents\code blocks projects\agoravai\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mem.h"
+	"cpu.h"
+
+1476842006 c:\users\daniel diniz\documents\code blocks projects\agoravai\cpu.h
+	"mem.h"
+
+1476836985 source:c:\users\daniel diniz\documents\code blocks projects\agoravai\mem.c
+	<stdio.h>
+	<stdlib.h>
+
+1476933388 source:c:\users\ricardo mendes\downloads\agoravai\agoravai\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mem.h"
+	"cpu.h"
+
+1476840695 c:\users\ricardo mendes\downloads\agoravai\agoravai\mem.h
+	<stdio.h>
+	<stdlib.h>
+
+1476845606 c:\users\ricardo mendes\downloads\agoravai\agoravai\cpu.h
+	"mem.h"
+
+1476931920 source:c:\users\ricardo mendes\downloads\agoravai\agoravai\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mem.h"
+	"cpu.h"
+
+1476840585 source:c:\users\ricardo mendes\downloads\agoravai\agoravai\mem.c
+	<stdio.h>
+	<stdlib.h>
+
+1477314677 source:c:\users\daniel diniz\documents\code blocks projects\agoravai_v1-0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mem.h"
+	"cpu.h"
+	"help.h"
+
+1476837095 c:\users\daniel diniz\documents\code blocks projects\agoravai_v1-0\mem.h
+	<stdio.h>
+	<stdlib.h>
+
+1477055214 c:\users\daniel diniz\documents\code blocks projects\agoravai_v1-0\cpu.h
+	"mem.h"
+
+1477065266 source:c:\users\daniel diniz\documents\code blocks projects\agoravai_v1-0\mem.c
+	<stdio.h>
+	<stdlib.h>
+
+1477280768 source:c:\users\daniel diniz\documents\code blocks projects\agoravai_v1-0\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mem.h"
+	"cpu.h"
+
+1477313877 source:c:\users\daniel diniz\documents\code blocks projects\agoravai_v1-0\help.c
+	"help.h"
+	"mem.h"
+	"cpu.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477313616 c:\users\daniel diniz\documents\code blocks projects\agoravai_v1-0\help.h
+

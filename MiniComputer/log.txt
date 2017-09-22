@@ -1,0 +1,27 @@
+Lendo endereco de memoria 0
+Opcode: 00030007 | Instrucao: LOAD | Endereco de memoria: 7
+Valor carregado pro acc: 4
+
+Lendo endereco de memoria 1
+Opcode: 00020000 | Instrucao: WRITE | Endereco de memoria: 0
+Valor atual no acc: 4
+
+Lendo endereco de memoria 2
+Opcode: 00030008 | Instrucao: LOAD | Endereco de memoria: 8
+Valor carregado pro acc: 5
+
+Lendo endereco de memoria 3
+Opcode: 00020000 | Instrucao: WRITE | Endereco de memoria: 0
+Valor atual no acc: 5
+
+Lendo endereco de memoria 4
+Opcode: 00050007 | Instrucao: ADD | Endereco de memoria: 7
+Adicionou acc(5) + endereco 7(4) = 9
+
+Lendo endereco de memoria 5
+Opcode: 00020000 | Instrucao: WRITE | Endereco de memoria: 0
+Valor atual no acc: 9
+
+Lendo endereco de memoria 6
+Opcode: 000d0000 | Instrucao: HALT | Endereco de memoria: 0
+Seu programa terminou.
